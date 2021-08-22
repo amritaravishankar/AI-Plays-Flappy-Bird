@@ -5,7 +5,7 @@ Then, AI learns and teaches itself to play Flappy Bird.
 Achieved using the Python NEAT framework.
 
 ## UI
-<img src="https://github.com/amritaravishankar/AI-Plays-Flappy-Bird/blob/master/game.png" width="400">
+<img src="https://github.com/amritaravishankar/AI-Plays-Flappy-Bird/blob/master/game.png" width="300">
 
 ## To Run
 ```
