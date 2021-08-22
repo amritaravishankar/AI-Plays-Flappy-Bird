@@ -6,7 +6,7 @@ Achieved using the Python NEAT framework.
 
 ## To Run
 ```
-python flappybird.py
+python flappy_bird.py
 ```
 
 ## Inspiration:
